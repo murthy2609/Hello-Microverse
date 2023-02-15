@@ -2,10 +2,8 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>README Information</b></h3>
+  
+  <h3><b>README that is helpful for understanding the flow of the </b></h3>
 
 </div>
 
@@ -31,7 +29,7 @@
 
 > This project is a simple Hello World project having an html and css file
 
-**Hello Microverse** is a...
+**Hello Microverse** is a small project that helped me to understand the project creation
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -131,7 +129,7 @@ I would like to thank Microverse for letting know how to create README file
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is MIT(./MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
